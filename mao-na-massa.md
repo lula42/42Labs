@@ -14,7 +14,7 @@ Todas as cerimônias fazem parte de um Sprint, que é um período de tempo (no n
 
 Antes de detalhar cada cerimônia é importante trazer uma dica de ouro:
 
-- Para não virar uma grande bagunça, é legal antes de cada reunião já termos definido quem será a pessoa que facilitará a reunião. A pessoa que será mestre de cerimônias, sabe? Responsável por conduzir os participantes da reunião rumo ao objetivo. Inclusive, é altamente recomendável que essa mesma pessoa leia esse mini-guia antes da cerimônia.
+*Para não virar uma grande bagunça, é legal antes de cada reunião já termos definido quem será a pessoa que facilitará a reunião. A pessoa que será mestre de cerimônias, sabe? Responsável por conduzir os participantes da reunião rumo ao objetivo. Inclusive, **é altamente recomendável que essa mesma pessoa leia esse mini-guia antes da cerimônia**.*
 
 ### Resumão compilado de cada cerimônia
 
@@ -42,3 +42,33 @@ Antes de detalhar cada cerimônia é importante trazer uma dica de ouro:
 	- Participantes: O time de desenvolvimento e qualquer pessoa que possa contribuir para a evolução do time
 	- Objetivo: Refletir sobre como podemos ficar mais efetivos para o próximo Sprint enquanto time
 
+# Anexos
+
+## Facilitação
+
+Segundo [o livro A Arte da Facilitação](https://leanpub.com/aartedafacilitacao/c/cupom-agile-pub):
+
+> Independente do formato de trabalho, qualquer encontro sem foco e objetividade impacta negativamente as organizações e seus negócios, pois desacelera o processo de adaptação em resposta às mudanças que o mercado impõe. Partindo dessa premissa, conduzir uma reunião torna-se algo mais complexo. Existe uma série de fatores que podem influenciar o seu resultado de maneira positiva ou negativa e todo esse contexto só aumenta a responsabilidade da pessoa facilitadora e a necessidade da facilitação. Sendo assim, urge um aprofundamento no entendimento desse tema. Primeiramente, é preciso entender o que é facilitação. Michael Wilkinson (2004) definiu esse ponto da seguinte forma:
+>
+> “Uma reunião altamente estruturada em que o líder da reunião (a pessoa facilitadora) orienta os participantes por uma série de etapas predefinidas para chegar a um resultado que seja criado, compreendido e aceito por todos os participantes.”
+>
+> A facilitação existe para organizar a forma como as reuniões devem ser conduzidas e ajudar os participantes chegarem a um resultado. Ter essa premissa é importante para uma melhor compreensão da atuação da pessoa facilitadora.
+
+Um dos objetivos da 42 é formar Human Coders. No 42Labs, mais do que nunca, isso é levado a sério: Habilidades complementares à programação são desenvolvidas o tempo todo. De User Experience a Facilitação.
+
+### Como escolher quem vai facilitar
+
+A forma mais simples de escolher quem vai facilitar a reunião é, talvez, vendo se alguém se voluntaria para facilitar.
+
+Uma outra opção talvez seja fazer uma votação simples:
+
+- Alguém explica o que é facilitação
+- Pergunta-se quem são os candidatos a facilitar
+- Todos votam pelo chat (não só nos candidatos, mas em todos os presente)
+- A pessoa que tiver mais votos é denominada facilitadora
+
+Se você quiser algo sutilmente mais rebuscado, uma votação em 2 turnos pode ser uma boa ideia:
+
+- Depois do primeiro turno, cada pessoa justifica porque votou em quem votou
+- Os votos do primeiro turno são descartados, e faz-se uma nova votação
+- A pessoa que tiver mais votos neste segundo turno é denominada facilitadora
