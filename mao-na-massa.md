@@ -1,4 +1,5 @@
 # O mini-guia quase definitivo sobre as cerimônias do mão-na-massa
+*versão: mao-na-massa.md-v0.2*
 
 Olá, cadete! Se você está lendo isso, provavelmente faz parte ou pretende fazer parte do 42Labs, e está buscando mais informações sobre como funciona a parte do mão-na-massa do 42Labs.
 
