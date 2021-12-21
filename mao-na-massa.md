@@ -1,6 +1,6 @@
-# O mini-guia quase-definitivo sobre cerimônias do mão-na-massa
+# O mini-guia quase definitivo sobre as cerimônias do mão-na-massa
 
-Olá, cadete! Se você está lendo isso, provavelmente faz parte ou pretende fazer parte do 42Labs, e está buscando mais informações sobre como funciona a parte de mão-na-massa do 42Labs.
+Olá, cadete! Se você está lendo isso, provavelmente faz parte ou pretende fazer parte do 42Labs, e está buscando mais informações sobre como funciona a parte do mão-na-massa do 42Labs.
 
 Antes de tudo, é importante ter em mente que não usamos um só método ou framework. Desde o Setup já começamos a praticar bastante do [Extreme Programming - XP](https://www.agilealliance.org/glossary/xp), e durante o mão-na-massa estamos colocando no nosso cinturão de utilidades também práticas do [Scrum](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-PortugueseBR-2.0.pdf).
 
@@ -14,34 +14,81 @@ Todas as cerimônias fazem parte de um Sprint, que é um período de tempo (no n
 
 Antes de detalhar cada cerimônia é importante trazer uma dica de ouro:
 
-*Para não virar uma grande bagunça, é legal antes de cada reunião já termos definido quem será a pessoa que facilitará a reunião. A pessoa que será mestre de cerimônias, sabe? Responsável por conduzir os participantes da reunião rumo ao objetivo. Inclusive, **é altamente recomendável que essa mesma pessoa leia esse mini-guia antes da cerimônia**.*
+*Para não virar uma grande bagunça, é legal antes de cada reunião já termos definido quem será a pessoa que facilitará a reunião. A pessoa que será mestre de cerimônias, sabe? Responsável por conduzir os participantes da reunião rumo ao objetivo. Inclusive, **é altamente recomendável que essa mesma pessoa leia esse mini-guia antes da cerimônia**. Nos anexos deste documento você encontra mais sobre [Facilitação](#facilitação) e sobre [Como escolher quem vai facilitar](#como-escolher-quem-vai-facilitar)*
+
+Nessa seção você encontra um [Resumão compilado de cada cerimônia](#resumão-compilado-de-cada-cerimônia) e  [Perguntas úteis em cada cerimônia](#perguntas-úteis-em-cada-cerimônia).
 
 ### Resumão compilado de cada cerimônia
 
-- Refinamento de backlog
+- **Refinamento**
 	- Duração: de 1 a 2 horas
-	- Ocorre: No meio do Sprint anterior
+	- Ocorre: No meio do Sprint atual, para planejar o próximo Sprint
 	- Participantes: Qualquer pessoa que esteja pensando no futuro do produto
 	- Objetivo: Organizar o backlog do produto (possíveis itens a serem desenvolvidos), deixando-o tão preparado quanto possível para a próxima Planning
 	
-- Planning
+- **Planning**
 	- Duração: 1 hora
 	- Ocorre: No começo do Sprint
 	- Participantes: O time de desenvolvimento e qualquer pessoa interessada que possa contribuir
 	- Objetivo: Definir o nosso objetivo para as próximas duas semanas, decidir com quais itens do backlog nos comprometeremos para essas duas semanas e quebrar cada um deles em tarefas técnicas
 	
-- Review
+- **Review**
 	- Duração: 1 hora
 	- Ocorre: No final do Sprint, antes da Retrospectiva
 	- Participantes: O time de desenvolvimento, pessoas interessadas e pessoas parecidas com as nossas personas que possam dar feedbacks sobre o produto que desenvolvemos
 	- Objetivo: Mostrar o produto funcionando e coletar feedbacks sobre ele. Atenção: sem relatar o que ocorreu durante a sprint, sem dar desculpas ou justificativas para o produto estar como está e sem se comprometer com desenvolvimentos futuros
 	
-- Retrospectiva
+- **Retrospectiva**
 	- Duração: 1 hora
 	- Ocorre: No final da Sprint, entre a Review e a próxima Planning
 	- Participantes: O time de desenvolvimento e qualquer pessoa que possa contribuir para a evolução do time
 	- Objetivo: Refletir sobre como podemos ficar mais efetivos para o próximo Sprint enquanto time
 
+### Perguntas úteis em cada cerimônia
+
+- **Refinamento**
+	1. Existe alguma coisa na nossa área de refinamento do Miro que já não faz mais sentido para o nosso futuro (ou por já ter sido feito ou por ter ficado obsoleta) e que a gente pode apagar?
+
+	2. As features (que vieram lááá do sequenciador de features) que estão atualmente na nossa área de refinamento (objetivos vs personas) ainda "dão suco" ou já esprememos (fatiamos) o suficiente para entender elas como completas e tirar do nosso quadro de refinamento?
+
+	3. As features que permanecem no nosso quadro são suficientes para trabalharmos atualmente dada a visão que temos para as próximas semanas ou deveríamos puxar alguma outra do sequenciador de features (ou de qualquer outro lugar)?
+
+	4. Quais fatias podemos extrair de cada uma das features posicionadas no quadro afim de ajudar a persona a alcançar um objetivo?
+
+	5. A quantidade de features que extraimos é suficiente/mais que suficiente para o próximo sprint?
+
+- **Planning**
+	1. Quais das histórias já fatiadas são mais prioritárias para puxarmos para esse Sprint? (De forma ordenada da mais importante para a menos importante)
+
+	2. Existe algum feedback simples da Review que já possamos considerar como uma nova história a ser feita nesse Sprint? (Feedbacks sobre os quais ainda precisamos pensar ficam para o próximo refinamento; Introduzir essas histórias mais simples dentro da lista de prioridades da questão 1)
+
+	3. Todas as histórias têm como foco atender alguma necessidade de uma das nossas personas? (Se não tiver, provavelmente não é uma história, é só uma task dentro de outra história)
+
+	4. Esse número de histórias que puxamos é suficiente para o próximo Sprint?
+
+	5. História a história: quais as tarefas técnicas que precisamos fazer para desenvolver essa história? (Colocar as tasks dentro do card da história)
+
+- **Review**
+	1. As pessoas que não fazem parte do time (de preferência alguém que esteja muito próximo ao nosso consumidor real/persona) viram o produto em funcionamento?
+	
+	2. Quais feedbacks essas pessoas têm para nos dar?
+	
+	3. Elas usariam o nosso produto da forma como ele está atualmente?
+	
+	4. Quais necessidades delas o nosso produto resolve?
+	
+	5. Temos feedbacks (insumos) o suficiente para o próximo refinamento?
+
+- **Retrospectiva**
+	1. Quais são os problemas atuais na performance do nosso time que precisamos resolver?
+	
+	2. O que nos impede de trabalhar ainda melhor?
+	
+	3. Como estão nossas métricas? O que elas nos dizem?
+	
+	4. O que podemos/devemos celebrar, enquanto time?
+	
+	6. Quais são as ações para ficarmos melhor para o próximo Sprint, e quem está responsável por puxar cada uma delas?
 # Anexos
 
 ## Facilitação
