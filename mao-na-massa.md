@@ -110,7 +110,7 @@ Nessa seção você encontra um [Resumão compilado de cada cerimônia](#resumã
 
 	2. O time se justifica por não entregar determinada feature. O momento de discutir os motivos de atrasos ou dificuldades é durante a retrospectiva.
 
-	3. O time faz um comprometimento prematuro. Recebido o feedback, o time se compromete a entregar determinada feature que até então não estava planejada. Novas história devem ser discutidas, possivelmente estudadas, e só então selecionadas.
+	3. O time faz um comprometimento prematuro. Recebido o feedback, o time se compromete a entregar determinada feature que até então não estava planejada. Novas histórias devem ser discutidas, possivelmente estudadas, e só então selecionadas.
 
 	4. O time não faz perguntas. Em muitos casos, uma das pessoas envolvidas no review terá um perfil muito próximo a uma das personas usuárias do seu projeto. Essa é a hora de conhecer suas opiniões e necessidades reais no que se refere ao produto.
 
