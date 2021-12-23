@@ -93,6 +93,14 @@ Nessa seção você encontra um [Resumão compilado de cada cerimônia](#resumã
 
 ### Anti-padrões de cada cerimônia
 
+Martin Fowler, em seu blog, tem [um artigo inteiro](https://martinfowler.com/bliki/AntiPattern.html) sobre Antipadrões, mas esse trecho abaixo resume bem o conceito:
+
+> Um antipadrão é como um padrão, mas ao invés de dar uma solução ele te dá algo que superficialmente parece ser uma solução, mas não é.
+>
+> _-- Andrew Koenig_
+
+Cada um dos anti-padrões abaixo emergiram de experiências reais (no Labs ou fora dele) e nos dizem o que **não** fazer dentro de cada cerimônia. Mesmo que pareça uma boa ideia fazer algo listado aqui, acredite: no médio prazo provavelmente vai dar ruim.
+
 - **Refinamento**
 	1. O time refina novas histórias mas não se prepara para executá-las. Caso os integrantes tenham dúvidas muito grandes sobre como implementar determinada feature, a solução deve ser pesquisada e estudada ANTES que a feature possa ser selecionada em um planning.
 
