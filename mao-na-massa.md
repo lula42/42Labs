@@ -17,7 +17,7 @@ Antes de detalhar cada cerimônia é importante trazer uma dica de ouro:
 
 *Para não virar uma grande bagunça, é legal antes de cada reunião já termos definido quem será a pessoa que facilitará a reunião. A pessoa que será mestre de cerimônias, sabe? Responsável por conduzir os participantes da reunião rumo ao objetivo. Inclusive, **é altamente recomendável que essa mesma pessoa leia esse mini-guia antes da cerimônia**. Nos anexos deste documento você encontra mais sobre [Facilitação](#facilitação) e sobre [Como escolher quem vai facilitar](#como-escolher-quem-vai-facilitar)*
 
-Nessa seção você encontra um [Resumão compilado de cada cerimônia](#resumão-compilado-de-cada-cerimônia) e  [Perguntas úteis em cada cerimônia](#perguntas-úteis-em-cada-cerimônia).
+Nessa seção você encontra um [Resumão compilado de cada cerimônia](#resumão-compilado-de-cada-cerimônia), [Perguntas úteis em cada cerimônia](#perguntas-úteis-em-cada-cerimônia) e [Anti-padrões de cada cerimônia](#Anti-padrões-de-cada-cerimônia).
 
 ### Resumão compilado de cada cerimônia
 
@@ -26,19 +26,19 @@ Nessa seção você encontra um [Resumão compilado de cada cerimônia](#resumã
 	- Ocorre: No meio do Sprint atual, para planejar o próximo Sprint
 	- Participantes: Qualquer pessoa que esteja pensando no futuro do produto
 	- Objetivo: Organizar o backlog do produto (possíveis itens a serem desenvolvidos), deixando-o tão preparado quanto possível para a próxima Planning
-	
+
 - **Planning**
 	- Duração: 1 hora
 	- Ocorre: No começo do Sprint
 	- Participantes: O time de desenvolvimento e qualquer pessoa interessada que possa contribuir
 	- Objetivo: Definir o nosso objetivo para as próximas duas semanas, decidir com quais itens do backlog nos comprometeremos para essas duas semanas e quebrar cada um deles em tarefas técnicas
-	
+
 - **Review**
 	- Duração: 1 hora
 	- Ocorre: No final do Sprint, antes da Retrospectiva
 	- Participantes: O time de desenvolvimento, pessoas interessadas e pessoas parecidas com as nossas personas que possam dar feedbacks sobre o produto que desenvolvemos
 	- Objetivo: Mostrar o produto funcionando e coletar feedbacks sobre ele. Atenção: sem relatar o que ocorreu durante a sprint, sem dar desculpas ou justificativas para o produto estar como está e sem se comprometer com desenvolvimentos futuros
-	
+
 - **Retrospectiva**
 	- Duração: 1 hora
 	- Ocorre: No final da Sprint, entre a Review e a próxima Planning
@@ -71,25 +71,54 @@ Nessa seção você encontra um [Resumão compilado de cada cerimônia](#resumã
 
 - **Review**
 	1. As pessoas que não fazem parte do time (de preferência alguém que esteja muito próximo ao nosso consumidor real/persona) viram o produto em funcionamento?
-	
+
 	2. Quais feedbacks essas pessoas têm para nos dar?
-	
+
 	3. Elas usariam o nosso produto da forma como ele está atualmente?
-	
+
 	4. Quais necessidades delas o nosso produto resolve?
-	
+
 	5. Temos feedbacks (insumos) o suficiente para o próximo refinamento?
 
 - **Retrospectiva**
 	1. Quais são os problemas atuais na performance do nosso time que precisamos resolver?
-	
+
 	2. O que nos impede de trabalhar ainda melhor?
-	
+
 	3. Como estão nossas métricas? O que elas nos dizem?
-	
+
 	4. O que podemos/devemos celebrar, enquanto time?
-	
+
 	6. Quais são as ações para ficarmos melhor para o próximo Sprint, e quem está responsável por puxar cada uma delas?
+
+### Anti-padrões de cada cerimônia
+
+- **Refinamento**
+	1. O time refina novas histórias mas não se prepara para executá-las. Caso os integrantes tenham dúvidas muito grandes sobre como implementar determinada feature, a solução deve ser pesquisada e estudada ANTES que a feature possa ser selecionada em um planning.
+
+	2. O refinamento dura muito menos do que o agendado. Um refinamento grosseiro ou mal feito pode levar a atrasos e dificuldades no planning e sprint seguintes. O tempo sobressalente de um refinamento pode ser usado para pesquisa e estudo conforme o item acima.
+
+	3. O time se esquece do feedback recebido. No início do refinamento vale a pena reler o feedback recebido para adaptar ou criar novas histórias de acordo com as informações obtidas durante um review.
+
+- **Planning**
+	1. O time seleciona uma história que possui um alto grau de incerteza. Evite selecionar histórias em que não se conhece o tamanho ou a complexidade de um problema. Na dúvida, não selecione a história e estude-a ao longo do sprint, para então selecioná-la no próximo planning.
+
+	2. O time cria muitas novas features logo após receber feedback. Pequenos recursos ou modificações podem ser adaptados durante o planning, mas guarde tarefas maiores para o refinamento onde novas features podem ser discutidas com mais tempo para conversa e estudo.
+
+- **Review**
+	1. O time faz um status report. Esta não é a hora de discutir o que foi feito e o que deixou de ser feito. O review serve para coletar feeback sobre o produto.
+
+	2. O time se justifica por não entregar determinada feature. O momento de discutir os motivos de atrasos ou dificuldades é durante a retrospectiva.
+
+	3. O time faz um comprometimento prematuro. Recebido o feedback, o time se compromete a entregar determinada feature que até então não estava planejada. Novas histórias devem ser discutidas, possivelmente estudadas, e só então selecionadas.
+
+	4. O time não faz perguntas. Em muitos casos, uma das pessoas envolvidas no review terá um perfil muito próximo a uma das personas usuárias do seu projeto. Essa é a hora de conhecer suas opiniões e necessidades reais no que se refere ao produto.
+
+	5. O time não faz anotações. Anote tudo o que puder e que for relevante. O feedback é valioso e não deve ser esquecido, mesmo que acabe não sendo implementado.
+
+- **Retrospectiva**
+	1. O time não se compromete com as ações discutidas. Ao final da retrospectiva, cada membro do time deve se voluntariar para desempenhar determinadas ações que melhorarão o próximo sprint. Uma ação pode ter mais de um responsável.
+
 # Anexos
 
 ## Facilitação
