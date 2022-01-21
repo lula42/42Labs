@@ -35,3 +35,22 @@ b. O nível técnico dos participantes: Se a maior parte dos participantes já d
 
 c. Diversão: Se os participantes, de forma geral, não gostam de algum tipo de tecnologia ou problema, talvez escolher um desafio mais alinhado às vontades dos participantes faça mais sentido. A não ser que o objetivo de aprendizado do Dojo seja quebrar esses preconceitos.
 
+Escolher um desafio que você já tenha resolvido antes como base para criar um novo, ou manter um desafio já resolvido só alterando a tecnologia utilizada são boas opções na escolha do desafio.
+
+### 3. O ambiente
+
+Nunca deixe para fazer o setup do ambiente em que o Dojo será rodado no mesmo dia do Dojo. A chance de dar ruim é grande, e começar um Dojo tendo que resolver problemas de ambiente geralmente é bem chato.
+
+Conversar ou até [parear](https://martinfowler.com/articles/on-pair-programming.html) com pessoas que já tenham conhecimento sobre a tecnologia que será utilizada no Dojo ajuda muito na preparação do ambiente. Inclusive, dar uns pequenos passos na resolução do desafio já durante o setup é uma boa forma de garantir que começaremos o Dojo mais suave. 
+
+#### Ferramentas
+
+Se o Dojo for rodado presencialmente, as ferramentas essenciais são: Um projetor ou televisão grande o suficiente para todos lerem o que está escrito, um computador com o ambiente preparado, uma mesa e cadeira com mouse e teclados a uma distância boa o suficiente da televisão e assentos confortáveis para a platéia (preferencialmente em U).
+
+Agora, se o Dojo for rodado remotamente, existem algumas opções de ferramentas que podem ser utilizadas:
+
+1. [Zoom](https://zoom.us): O Zoom tem uma feature chamada ["remote control"](https://support.zoom.us/hc/en-us/articles/201362673-Requesting-or-giving-remote-control). Ela funciona muito bem. Caso você opte por rodar o Dojo utilizando somente o Zoom, tudo o que você vai precisar preparar é o ambiente no seu computador e dar acesso remoto a ele pelo próprio Zoom para quem for pilotar no momento em que for pilotar.
+
+2. [VSCode Live Share](https://code.visualstudio.com/learn/collaboration/live-share): Essa extensão do Visual Studio Code permite que várias pessoas colaborem no mesmo código em tempo real. É quase mágica! Se você optar por utilizá-la no Dojo, lembre-se que cada participante já deve ter em seu computador o [VSCode](https://code.visualstudio.com/) instalado com [a extensão](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) funcionando. Não necessariamente cada participante precisará ter o ambiente já configurado na sua própria máquina, já que o VSCode Live Share permite o uso do console do host (quem está facilitando, geralmente).
+
+3. [Mob.sh](https://mob.sh/): Outra alternativa ousada. Experimenta aí!
