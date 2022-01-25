@@ -54,7 +54,9 @@ Agora, se o Dojo for rodado remotamente, existem algumas opções de ferramentas
 
 2. [VSCode Live Share](https://code.visualstudio.com/learn/collaboration/live-share): Essa extensão do Visual Studio Code permite que várias pessoas colaborem no mesmo código em tempo real. É quase mágica! Se você optar por utilizá-la no Dojo, lembre-se que cada participante já deve ter em seu computador o [VSCode](https://code.visualstudio.com/) instalado com [a extensão](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack) funcionando. Não necessariamente cada participante precisará ter o ambiente já configurado na sua própria máquina, já que o VSCode Live Share permite o uso do console do host (quem está facilitando, geralmente).
 
-3. [Mob.sh](https://mob.sh/): Outra alternativa ousada. Experimenta aí!
+3. [Replit](https://replit.com/): Uma IDE gratuita, colaborativa, que roda no browser e suporta mais de 50 linguagens de programação. Não exige nenhum setup, mas exige cadastro.
+
+4. [Mob.sh](https://mob.sh/): Outra alternativa ousada. Experimenta aí!
 
 ## Rodando o dojo
 
