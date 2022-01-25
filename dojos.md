@@ -18,9 +18,9 @@ A nossa filosofia de Coding Dojo é baseada em três pilares principais:
 
 Para rodar um Coding Dojo você precisará:
 
-1. Alguém para facilitar: Uma pessoa com alguma experiência anterior em Coding Dojos
-2. Um desafio: Algum desafio de programação que será resolvido pelos participantes
-3. Um ambiente preparado: Um computador com as ferramentas necessárias instaladas e prontas para inicarmos a resolução do desafio
+1. Alguém para facilitar: uma pessoa com alguma experiência anterior em Coding Dojos
+2. Um desafio: algum desafio de programação que será resolvido pelos participantes
+3. Um ambiente preparado: um computador com as ferramentas necessárias instaladas e prontas para iniciarmos a resolução do desafio
 
 ### 1. Alguém para facilitar
 
