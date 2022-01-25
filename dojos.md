@@ -83,3 +83,4 @@ Uma vez que esteja claro o funcionamento do dojo, quem facilita apresenta o desa
 
 - Compartilhar a tela o tempo todo é essencial!
 - Use e abuse de timebox. O timer do [slice.tools](https://slice.tools) é uma boa ideia, já que é compartilhado por todos que acessam a mesma URL.
+- No começo do dojo, como facilitador, fale das suas inseguranças e desconhecimentos também, não só da parte que você curte/está confortável. Demonstrar vulnerabilidade (real) quando está conduzindo o encontro gera mais empatia e faz os outros se sentirem a vontade para errar.
