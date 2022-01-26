@@ -11,6 +11,7 @@ Neste repositório você encontra materiais utilizados durante o 42Labs.
 ### Conteúdo atual
 
 - [mao-na-massa.md](https://github.com/lula42/42Labs/blob/main/mao-na-massa.md): Um mini-guia para que os cadetes e parceiros possam realizar reuniões produtivas com base no método Scrum
+- [dojos.md](https://github.com/lula42/42Labs/blob/main/dojos.md): Um mini-guia para que os cadetes e parceiros possam preparar seus próprios coding dojos: eventos de mob programming focados em aprendizado colaborativo.
 
 ### Como colaborar
 
