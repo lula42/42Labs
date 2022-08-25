@@ -56,7 +56,18 @@ Agora, se o Dojo for rodado remotamente, existem algumas opções de ferramentas
 
 3. [Replit](https://replit.com/): Uma IDE gratuita, colaborativa, que roda no browser e suporta mais de 50 linguagens de programação. Não exige nenhum setup, mas exige cadastro.
 
-4. [Mob.sh](https://mob.sh/): Outra alternativa ousada. Experimenta aí!
+4. [Mob.sh](https://mob.sh/): Uma alternativa super leve e que funciona totalmente pela linha de comando. Compartilhe a tela pelo Zoom e cada um comita suas alterações instantaneamente pelo GIT (direto do conforto de seus própios pcs), usando comandos simples como mob start e mob next. O mob.sh vem com timer tbm.
+
+Exemplo de uso:
+     Maria é a piloto compartilhando a tela, Mona é a próxima
+     Maria roda o comando mob next e em seguida
+     Maria continua compartilhando a tela com o terminal mostrando a execução bem-sucedida do mob next
+     Maria não faz nada (ou seja, não digita, não move o cursor do mouse, não muda de janela)
+     Mona rouba o compartilhamento de tela usando o atalho de teclado e, depois, executa mob start
+     Maria checa seu twitter
+     
+5. [instant.nvim](https://bit.ly/3TeRAol): Porque se o Akita usa e recomenda NeoVim, quem sou ue pra achar que o VSCode é melhor? Ou seja, o instant.nvim é um plugin pro NeoVim que faz provavelmente as mesmas coisas principais do VSCode Live Share só que sem deixar de ser o bom e velho Vim. Quer dizer, o bom e novo NEOvim, rsrs.
+     
 
 ## Rodando o dojo
 
